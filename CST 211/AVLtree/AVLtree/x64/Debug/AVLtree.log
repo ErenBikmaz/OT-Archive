@@ -1,0 +1,17 @@
+﻿  TestStub.cpp
+C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\AVLtree\TestStub.cpp(50,7): warning C4101: 'tests_passed': unreferenced local variable
+C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\AVLtree\AVLTree.h(836,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\AVLtree\AVLTree.h(826): message : while compiling class template member function 'const int AVLTree<int>::IterativeHeight(AVLNode<T> *)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\AVLtree\AVLTree.h(431): message : see reference to function template instantiation 'const int AVLTree<int>::IterativeHeight(AVLNode<T> *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\AVLtree\AVLTree.h(142): message : while compiling class template member function 'AVLTree<int>::AVLTree(const AVLTree<int> &)'
+C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\AVLtree\TestStub.cpp(81): message : see reference to function template instantiation 'AVLTree<int>::AVLTree(const AVLTree<int> &)' being compiled
+C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\AVLtree\TestStub.cpp(77): message : see reference to class template instantiation 'AVLTree<int>' being compiled
+  AVLtree.vcxproj -> C:\Users\Eren Bikmaz\source\repos\CST_211\AVLtree\x64\Debug\AVLtree.exe

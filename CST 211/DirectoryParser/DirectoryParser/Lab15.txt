@@ -1,0 +1,32 @@
+Assignment 15
+??????
+
+Description
+
+Create a program that will traverse the directory structure of the hard drive and store all directory 
+and file names into a data structure. 
+
+You should accept the starting directory via command line 
+arguments.
+
+Provide the functionality to manipulate your data structure:
+1.    
+Find everything that meets a specific pattern. For example, “*.docx” will show all files with that 
+extension. 
+The following are examples: VIA COMMAND LINE ARGUMENTS
+	a.
+	list c:\test – will show all files in that directory only
+	b.    
+	list c:\test\*.docx – will show all docx files in that directory
+	c.
+	list -r c:\test\*.docx  - will show all docx in that directory and all subdirectories
+	d.    
+	list code – will show any directory or file that has the string “code” in the name starting 
+	at the top of the data structure.
+2.    
+Write the data to file. This data will be used in the next assignment. Write the drive, path and if 
+	appropriate filename to the output file.
+
+
+Extra Credit
+Nah!

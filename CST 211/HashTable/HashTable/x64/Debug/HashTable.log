@@ -1,0 +1,14 @@
+﻿  TestStub.cpp
+C:\Users\Eren Bikmaz\source\repos\CST_211\HashTable\HashTable\HashTable.h(234,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Eren Bikmaz\source\repos\CST_211\HashTable\HashTable\HashTable.h(212): message : while compiling class template member function 'void HashTable<int,std::string>::setHash(int (__cdecl *)(K))'
+          with
+          [
+              K=int
+          ]
+C:\Users\Eren Bikmaz\source\repos\CST_211\HashTable\HashTable\TestStub.cpp(75): message : see reference to function template instantiation 'void HashTable<int,std::string>::setHash(int (__cdecl *)(K))' being compiled
+          with
+          [
+              K=int
+          ]
+C:\Users\Eren Bikmaz\source\repos\CST_211\HashTable\HashTable\TestStub.cpp(74): message : see reference to class template instantiation 'HashTable<int,std::string>' being compiled
+  HashTable.vcxproj -> C:\Users\Eren Bikmaz\source\repos\CST_211\HashTable\x64\Debug\HashTable.exe

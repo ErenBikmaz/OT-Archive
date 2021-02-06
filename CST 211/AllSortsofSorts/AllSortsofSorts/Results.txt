@@ -1,0 +1,121 @@
+All Sorts of Sorts!
+
+Shell Sort of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 5 ms
+
+Shell Sort of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 38 ms
+
+Shell Sort of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 26 ms
+
+Heap Sort of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 15 ms
+
+Heap Sort of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 24 ms
+
+Heap Sort of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 30 ms
+
+Merge Sort of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 22 ms
+
+Merge Sort of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 34 ms
+
+Merge Sort of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 33 ms
+
+Quick Sort of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 16 ms
+
+Quick Sort of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 15 ms
+
+Quick Sort of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 16 ms
+
+Brutish Bubble of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 948 ms
+
+Brutish Bubble of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 5 sec 390 ms
+
+Brutish Bubble of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 5 sec 706 ms
+
+Flagged Bubble of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 733 ms
+
+Flagged Bubble of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 3 sec 489 ms
+
+Flagged Bubble of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 3 sec 712 ms
+
+Selection Sort of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 1 sec 243 ms
+
+Selection Sort of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 4 sec 847 ms
+
+Selection Sort of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 5 sec 51 ms
+
+Insertion Sort of 
+int *
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 0 sec 78 ms
+
+Insertion Sort of 
+class Array<int>
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 1 sec 446 ms
+
+Insertion Sort of 
+class std::vector<int,class std::allocator<int> >
+1 828 1677 2488 3474 4554 5657 6700 7792 8905 
+0 hrs 0 min 1 sec 533 ms

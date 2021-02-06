@@ -1,0 +1,34 @@
+
+
+1.    The time it took to do all of the insertions broken out by each data structure.
+
+PopulateArray
+0 hrs 0 min 0 sec 3 ms 517 us
+PopulateList
+0 hrs 0 min 0 sec 9 ms 677 us
+PopulateBTree
+0 hrs 0 min 2 sec 880 ms 769 us
+PopulateATree
+0 hrs 0 min 0 sec 60 ms 612 us
+PopulateTable
+0 hrs 0 min 0 sec 396 ms 622 us
+
+2.    The time it took to do the search broken out by each data structure.
+
+SearchArray
+0 hrs 0 min 0 sec 0 ms 136 us
+SearchList
+0 hrs 0 min 0 sec 0 ms 285 us
+SearchBTree
+0 hrs 0 min 0 sec 2 ms 568 us
+SearchATree
+0 hrs 0 min 0 sec 0 ms 205 us
+SearchTable
+0 hrs 0 min 0 sec 0 ms 17 us
+
+3.    Short observations on what you have observed and learned.
+
+Arrays are faster than other "linear" structs if you know what size to make them in advance.
+(Use a list otherwise)
+BSTrees kinda suck? AVL Trees seem to be automatically superior.
+Hash Tables are very fast for data retrival, but slow to populate.

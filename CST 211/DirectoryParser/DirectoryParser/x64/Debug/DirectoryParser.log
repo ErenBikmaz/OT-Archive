@@ -1,0 +1,4 @@
+﻿  TestStub.cpp
+C:\Users\Eren Bikmaz\source\repos\CST_211\DirectoryParser\DirectoryParser\TestStub.cpp(96,63): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Eren Bikmaz\source\repos\CST_211\DirectoryParser\DirectoryParser\TestStub.cpp(207,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DirectoryParser.vcxproj -> C:\Users\Eren Bikmaz\source\repos\CST_211\DirectoryParser\x64\Debug\DirectoryParser.exe

@@ -1,0 +1,9 @@
+﻿  TestStub.cpp
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\TestStub.cpp(362,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\Graph.h(227,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\Graph.h(226): message : while compiling class template member function 'int Graph<std::string,std::string>::GetSize(void)'
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\TestStub.cpp(178): message : see reference to function template instantiation 'int Graph<std::string,std::string>::GetSize(void)' being compiled
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\TestStub.cpp(47): message : see reference to class template instantiation 'Graph<std::string,std::string>' being compiled
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\Graph.h(448): warning C4715: 'Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetEdge': not all control paths return a value
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\Graph.h(462): warning C4715: 'Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetWeight': not all control paths return a value
+  ShortestPath.vcxproj -> C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\x64\Debug\ShortestPath.exe

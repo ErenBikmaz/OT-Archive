@@ -1,0 +1,7 @@
+﻿  TestStub.cpp
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\TestStub.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\TestStub.cpp(284,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\TestStub.cpp(362,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\Graph.h(448): warning C4715: 'Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetEdge': not all control paths return a value
+C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\ShortestPath\Graph.h(462): warning C4715: 'Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetWeight': not all control paths return a value
+  ShortestPath.vcxproj -> C:\Users\Eren Bikmaz\source\repos\CST_211\ShortestPath\Debug\ShortestPath.exe

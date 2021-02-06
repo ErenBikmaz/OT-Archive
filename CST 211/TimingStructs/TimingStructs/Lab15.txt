@@ -1,0 +1,22 @@
+Assignment 16
+Timing Experiments
+
+Description
+
+After running Assignment 15 on your hard drive, you should have a data file full of paths and filenames. 
+If you did not complete the lab borrow someone else’s output file to complete this lab. Write a program 
+that inserts all of the data from the file into the following data structures you wrote.
+
+1.    Array
+2.    Linked List
+3.    Binary Search Tree
+4.    AVL Tree
+5.    Hash Table
+
+
+I want you to time all of the insertions and a search on each individual data structure. Include in your lab 
+submission a small document that indicates
+
+1.    The time it took to do all of the insertions broken out by each data structure.
+2.    The time it took to do the search broken out by each data structure.
+3.    Short observations on what you have observed and learned.
